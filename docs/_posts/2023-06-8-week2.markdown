@@ -9,4 +9,4 @@ tags: weekly
 
 
 
-![](https://hackmd.io/_uploads/HJzwbHyvn.png)
+![](../assets/week1Image.png)
