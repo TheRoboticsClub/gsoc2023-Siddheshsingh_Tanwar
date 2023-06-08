@@ -7,6 +7,24 @@ categories: BLogs
 tags: weekly
 ---
 
+## Introduction:
 
+Welcome back to my GSOC weekly blog, where I document my progress and experiences during the coding period. In Week 2, I finally had ample time to focus on the goals set in Week 1 after the conclusion of my exams. I dedicated this week to gaining in-depth knowledge of the Visual Circuit application, exploring PythonWebId, and successfully setting up the Robotics Academy on my local system. Additionally, I had the opportunity to engage with RADI through a stimulating exercise. Let's dive into the details of my progress!
 
-![](../assets/week1Image.png)
+## Understanding Visual Circuit Blocks:
+
+During this week, I delved into the intricacies of the Visual Circuit application. Specifically, I focused on comprehending the different blocks associated with OpenCV processing and the corresponding drivers. By gaining a deep understanding of these blocks, I developed a solid foundation for leveraging their functionalities in creating innovative applications. Exploring the intricacies of Visual Circuit has allowed me to grasp the project's architecture and opens up exciting possibilities for future development.
+Image:
+
+## Gaining In-depth Knowledge of PythonWebId:
+
+In addition to exploring Visual Circuit, I dedicated time to dive into PythonWebId. This powerful tool serves as the backbone of the project, enabling seamless integration of different components. By delving deeper into PythonWebId, I gained valuable insights into its core functionalities and learned how to leverage its capabilities to enhance the overall performance of the visual circuit application.
+
+## Setting up Robotics Academy and Engaging with RADI:
+
+One of the significant achievements of this week was successfully setting up the Robotics Academy on my local system. This involved following the provided documentation and configuring the necessary components to create a fully functional development environment. With the Robotics Academy up and running, I had the opportunity to immerse myself in RADI (Robotics Application Development Interface). To familiarize myself with RADI's capabilities, I actively engaged with an exercise that challenged me to solve a specific problem. This exercise allowed me to apply my skills and gain hands-on experience in developing robotics applications.
+Image:
+
+## Conclusion:
+
+Week 2 of the coding period proved to be highly productive and engaging as I dedicated my time to explore the Visual Circuit blocks, delve into PythonWebId, set up the Robotics Academy, and actively engage with RADI. Gaining in-depth knowledge of the Visual Circuit blocks and PythonWebId has expanded my understanding of the project's architecture and enhanced my ability to develop sophisticated applications. Furthermore, successfully setting up the Robotics Academy and working with RADI has provided valuable hands-on experience and opened new avenues for innovation. I am excited to build upon this progress and eagerly look forward to the upcoming challenges and opportunities in Week 3.
