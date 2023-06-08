@@ -11,7 +11,7 @@ tags: weekly
 Welcome to my GSOC weekly blog, where I'll be sharing my progress and experiences during the coding period. In this post, we'll cover the highlights of Week 1, including my exploration of Docker and setting goals for the upcoming weeks. Despite having exams during this time, I managed to make significant strides in understanding Docker and began working on Dockerizing the visual circuit application.
 
 ## Week 1: Docker Exploration and Initial Progress
-During the first week of the coding period, I faced the additional challenge of ongoing exams. However, I made the most of my available time and focused on familiarizing myself with Docker and its application in the visual circuit project. My initial objective was to Dockerize the application, simplifying its deployment process.
+During the first week of the coding period, I faced the additional challenge of ongoing LAB/Practical exams. However, I made the most of my available time and focused on familiarizing myself with Docker and its application in the visual circuit project. My initial objective was to Dockerize the application, simplifying its deployment process.
 
 ### Exploring Docker:
 To begin, I conducted in-depth research on Docker and its functionalities. I gained a solid understanding of containerization and the benefits it offers in terms of portability and scalability. With this knowledge in hand, I set out to create a Dockerfile for the visual circuit application.
