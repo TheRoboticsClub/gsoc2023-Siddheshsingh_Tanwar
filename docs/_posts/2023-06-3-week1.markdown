@@ -8,31 +8,38 @@ tags: weekly
 ---
 
 ## Introduction:
+
 Welcome to my GSOC weekly blog, where I'll be sharing my progress and experiences during the coding period. In this post, we'll cover the highlights of Week 1, including my exploration of Docker and setting goals for the upcoming weeks. Despite having exams during this time, I managed to make significant strides in understanding Docker and began working on Dockerizing the visual circuit application.
 
 ## Week 1: Docker Exploration and Initial Progress
+
 During the first week of the coding period, I faced the additional challenge of ongoing LAB/Practical exams. However, I made the most of my available time and focused on familiarizing myself with Docker and its application in the visual circuit project. My initial objective was to Dockerize the application, simplifying its deployment process.
 
 ### Exploring Docker:
+
 To begin, I conducted in-depth research on Docker and its functionalities. I gained a solid understanding of containerization and the benefits it offers in terms of portability and scalability. With this knowledge in hand, I set out to create a Dockerfile for the visual circuit application.
 
 #### Dockerizing the Visual Circuit Application:
+
 Using my newfound knowledge, I attempted to create a Docker image that consolidated the frontend and backend into a single file. Although I encountered some challenges along the way, such as issues with working application on assigned port, I remain determined to refine the Docker image and ensure its seamless execution.
 
-Image: 
+Image:
 ![](../assets/week1Image.png)
 
-
+![](https://hackmd.io/_uploads/HJzwbHyvn.png)
 
 ## Goals for the Next Week:
+
 Looking ahead to the next week, I have established the following goals to continue progressing in the project:
 
 #### Deep Dive into PythonWebId and Robotics Application Manager:
+
 As a crucial component of the project, PythonWebId and Robotics Application Manager plays a vital role in managing and executing robotics applications. I will be closely studying the repository: [insert GitHub link: https://github.com/JdeRobot/RoboticsApplicationManager]. By gaining in-depth knowledge of the Robotics Application Manager and PythonWebId, I aim to understand its architecture, features, and functionalities. This will enable me to utilize its capabilities effectively and contribute to the development of the visual circuit application.
 
 #### Experimenting with RADI:
+
 To enhance my understanding of the project ecosystem, I will be dedicating time to explore the Robotics Academy Docker Image (RADI) available in the repository: [insert GitHub link: https://github.com/JdeRobot/RoboticsAcademy]. RADI provides a collection of pre-configured robotics simulations and tools. By familiarizing myself with RADI, I aim to leverage its capabilities in developing applications for the visual circuit project. This includes experimenting with the available simulations and understanding the underlying components that enable seamless integration with the Robotics Application Manager.
 
-
 ## Conclusion:
+
 Week 1 of the coding period marked significant progress in my GSOC project, as I embarked on exploring Docker and Dockerizing the visual circuit application. Despite the challenges posed by ongoing exams, I remain determined to refine the Docker image and streamline its execution. Looking ahead to the next week, I am excited to delve into the Robotics Academy Docker Image (RADI) and the Robotics Application Manager. By deepening my understanding of these components, I aim to leverage their capabilities and contribute effectively to the visual circuit project. Stay tuned for more updates on my GSOC journey!
