@@ -24,7 +24,6 @@ To begin, I conducted in-depth research on Docker and its functionalities. I gai
 Using my newfound knowledge, I attempted to create a Docker image that consolidated the frontend and backend into a single file. Although I encountered some challenges along the way, such as issues with working application on assigned port, I remain determined to refine the Docker image and ensure its seamless execution.
 
 Image:
-![](../assets/week1Image.png)
 
 ![](https://hackmd.io/_uploads/HJzwbHyvn.png)
 
@@ -34,11 +33,11 @@ Looking ahead to the next week, I have established the following goals to contin
 
 #### Deep Dive into PythonWebId and Robotics Application Manager:
 
-As a crucial component of the project, PythonWebId and Robotics Application Manager plays a vital role in managing and executing robotics applications. I will be closely studying the repository: [insert GitHub link: https://github.com/JdeRobot/RoboticsApplicationManager]. By gaining in-depth knowledge of the Robotics Application Manager and PythonWebId, I aim to understand its architecture, features, and functionalities. This will enable me to utilize its capabilities effectively and contribute to the development of the visual circuit application.
+As a crucial component of the project, PythonWebId and Robotics Application Manager plays a vital role in managing and executing robotics applications. I will be closely studying the repository. By gaining in-depth knowledge of the Robotics Application Manager and PythonWebId, I aim to understand its architecture, features, and functionalities. This will enable me to utilize its capabilities effectively and contribute to the development of the visual circuit application.
 
 #### Experimenting with RADI:
 
-To enhance my understanding of the project ecosystem, I will be dedicating time to explore the Robotics Academy Docker Image (RADI) available in the repository: [insert GitHub link: https://github.com/JdeRobot/RoboticsAcademy]. RADI provides a collection of pre-configured robotics simulations and tools. By familiarizing myself with RADI, I aim to leverage its capabilities in developing applications for the visual circuit project. This includes experimenting with the available simulations and understanding the underlying components that enable seamless integration with the Robotics Application Manager.
+To enhance my understanding of the project ecosystem, I will be dedicating time to explore the Robotics Academy Docker Image (RADI) available in the repository. RADI provides a collection of pre-configured robotics simulations and tools. By familiarizing myself with RADI, I aim to leverage its capabilities in developing applications for the visual circuit project. This includes experimenting with the available simulations and understanding the underlying components that enable seamless integration with the Robotics Application Manager.
 
 ## Conclusion:
 
