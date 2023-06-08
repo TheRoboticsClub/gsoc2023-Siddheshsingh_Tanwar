@@ -33,4 +33,4 @@ Looking ahead to the next week, I have established the following goals to contin
 To further enhance my development skills and contribute effectively to the project, I plan to delve deeper into PythonWebId and the Robotics Application Manager. By gaining a comprehensive understanding of these tools, I aim to unlock their full potential and leverage them in creating impactful applications.
 
 #### Experimenting with RADI Implementation:
-In addition to exploring PythonWebId and the Robotics Application Manager, I am excited to experiment with the Robotics Application Development Interface (RADI). By implementing various applications using RADI, I hope to gain practical insights into its capabilities and identify opportunities for optimization and innovation.
+In addition to exploring PythonWebId and the Robotics Application Manager, I am excited to experiment with the Robotics Academy Docker Image(RADI). By implementing various applications using RADI, I hope to gain practical insights into its capabilities and identify opportunities for optimization and innovation.
