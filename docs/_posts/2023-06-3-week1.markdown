@@ -23,8 +23,6 @@ Image:
 ![](https://hackmd.io/_uploads/HJzwbHyvn.png)
 
 
-## Conclusion:
-Week 1 of the coding period marked significant progress in my GSOC project, as I embarked on exploring Docker and Dockerizing the visual circuit application. Despite the challenges posed by ongoing exams, I remain determined to refine the Docker image and streamline its execution. Looking ahead to the next week, I am excited to delve into the Robotics Academy Docker Image (RADI) and the Robotics Application Manager. By deepening my understanding of these components, I aim to leverage their capabilities and contribute effectively to the visual circuit project. Stay tuned for more updates on my GSOC journey!
 
 ## Goals for the Next Week:
 Looking ahead to the next week, I have established the following goals to continue progressing in the project:
@@ -34,3 +32,7 @@ As a crucial component of the project, PythonWebId and Robotics Application Mana
 
 #### Experimenting with RADI:
 To enhance my understanding of the project ecosystem, I will be dedicating time to explore the Robotics Academy Docker Image (RADI) available in the repository: [insert GitHub link: https://github.com/JdeRobot/RoboticsAcademy]. RADI provides a collection of pre-configured robotics simulations and tools. By familiarizing myself with RADI, I aim to leverage its capabilities in developing applications for the visual circuit project. This includes experimenting with the available simulations and understanding the underlying components that enable seamless integration with the Robotics Application Manager.
+
+
+## Conclusion:
+Week 1 of the coding period marked significant progress in my GSOC project, as I embarked on exploring Docker and Dockerizing the visual circuit application. Despite the challenges posed by ongoing exams, I remain determined to refine the Docker image and streamline its execution. Looking ahead to the next week, I am excited to delve into the Robotics Academy Docker Image (RADI) and the Robotics Application Manager. By deepening my understanding of these components, I aim to leverage their capabilities and contribute effectively to the visual circuit project. Stay tuned for more updates on my GSOC journey!
