@@ -25,6 +25,17 @@ In addition to exploring Visual Circuit, I dedicated time to dive into PythonWeb
 One of the significant achievements of this week was successfully setting up the Robotics Academy on my local system. This involved following the provided documentation and configuring the necessary components to create a fully functional development environment. With the Robotics Academy up and running, I had the opportunity to immerse myself in RADI (Robotics Application Development Interface). To familiarize myself with RADI's capabilities, I actively engaged with an exercise that challenged me to solve a specific problem. This exercise allowed me to apply my skills and gain hands-on experience in developing robotics applications.
 Image:
 
+## Goals for the Next Week:
+As I look forward to Week 3 of the coding period, I have set the following goals to propel my progress in the project:
+
+#### Create a Web Page using PythonWebIDE:
+In the upcoming week, my primary objective is to leverage PythonWebIDE to develop a functional web page.
+#### Establish Successful Connections:
+A crucial aspect of the project involves establishing seamless connections between RADI and Web page. In Week 3, I will focus on ensuring that all the necessary connections are properly established and functioning effectively. 
+
+#### Implement a Dummy Exercise :
+In this i have to implement the exercise for example circular motion of robot visible on the right/Execution side of the web page.
+
 ## Conclusion:
 
 Week 2 of the coding period proved to be highly productive and engaging as I dedicated my time to explore the Visual Circuit blocks, delve into PythonWebId, set up the Robotics Academy, and actively engage with RADI. Gaining in-depth knowledge of the Visual Circuit blocks and PythonWebId has expanded my understanding of the project's architecture and enhanced my ability to develop sophisticated applications. Furthermore, successfully setting up the Robotics Academy and working with RADI has provided valuable hands-on experience and opened new avenues for innovation. I am excited to build upon this progress and eagerly look forward to the upcoming challenges and opportunities in Week 3.
