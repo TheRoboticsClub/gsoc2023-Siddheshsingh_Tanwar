@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Week 3"
+date: June 8 - June 15 2023
+author: Siddheshsingh Tanwar
+categories: BLogs
+tags: weekly
+---
+
+I am currently experiencing a problem setting up the PythonWebIDE on my system this week. The issue I'm facing is that the Django server is running on port 8000, but according to the documentation, the docker container port also needs to run on 8000, which is not feasible. As a result, the following error is occurring.
+
+
+
+```
+sudo docker run --rm -it -p 8000:8000 -p 2303:2303 -p 1905:1905 -p 8765:8765 -p 6080:6080 -p 1108:1108 jderobot/robotics-academy --no-server
+```
+Error:
+``
+docker: Error response from daemon: driver failed programming external connectivity on endpoint awesome_keldysh (b85221c56aa90ea1aa6d42a319fbb861c0bc7af87a54e05645b8733fa3c298f5): Error starting userland proxy: listen tcp4 0.0.0.0:8000: bind: address already in use.
+``
+
+![](https://hackmd.io/_uploads/Sysq6nZP2.png)
+
+To resolve this issue, I attempted to change the Django server port to 4600 by running the following command:
+
+```
+python3 manage.py runserver 4600
+```
+Additionally, I modified the docker run command from``-p 8000:8000`` to ``-p 8000:4600``
+
+Entire Command:
+```
+sudo docker run --rm -it -p 8000:4600 -p 2303:2303 -p 1905:1905 -p 8765:8765 -p 6080:6080 -p 1108:1108 jderobot/robotics-academy --no-server
+```
+
+However, even after making these changes, I still couldn't establish a connection between the PythonWebIDE page and the RADI platform.
+
+
+![](https://hackmd.io/_uploads/r1kylaZvn.png)
+
+
