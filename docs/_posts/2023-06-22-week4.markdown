@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Week 3"
+date: June 8 - June 15 2023
+author: Siddheshsingh Tanwar
+categories: BLogs
+tags: weekly
+---
+
+Hello everyone! Welcome to my Week 4 update on my Google Summer of Code (GSOC) project. This week has been quite eventful as I made significant progress on my tasks, although I did encounter some challenges along the way. Let's dive into the details of what I have accomplished and the obstacles I faced.
+
+## Task Update:
+I'm pleased to share that I have almost completed all the tasks scheduled for this week. However, one persistent issue that I encountered was establishing seamless connections between components. While I managed to establish connections successfully on a few occasions, I still face intermittent connection problems. It's been a bit frustrating, but I remain determined to find a proper solution.
+
+## Understanding Infrastructure Code:
+To address the connection issue, I decided to delve deeper into the codebase of the Infrastructure component. By making some modifications, I aimed to gain a better understanding of how it operates. This exploration allowed me to grasp the inner workings of the infrastructure's code and get a clearer picture of its functionality. While I haven't found a definitive solution to the connection problem just yet, these code modifications have provided valuable insights for further troubleshooting.
+
+## Exploring RoboticsApplicationManager (RAM):
+During this week, I dedicated time to exploring the code of the RoboticsApplicationManager (RAM). Understanding the different functions and their roles within the RAM was a crucial focus. Of particular importance was grasping the input of code from the web browser. This aspect is essential for our project, as we plan to send a zip file generated from the Visual Circuit to the RAM through the Infrastructure component.
+
+## Integration of Zip File Input:
+As part of my progress this week, I successfully implemented an input option for zip files on the web page. Users can now upload zip files directly through the interface, replacing the Ace code editor. However, at this stage, the file upload functionality is not transferring the zip file to the RAM successfully. This is an area where I encountered a challenge and need to find a suitable solution.
