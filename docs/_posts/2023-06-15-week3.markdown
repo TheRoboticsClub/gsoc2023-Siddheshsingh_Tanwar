@@ -7,7 +7,7 @@ categories: BLogs
 tags: weekly
 ---
 
-I am currently experiencing a problem setting up the PythonWebIDE on my system this week. The issue I'm facing is that the Django server is running on port 8000, but according to the documentation, the docker container port also needs to run on 8000, which is not feasible. As a result, the following error is occurring.
+In this week i am experiencing a problem setting up the Infrasturcture on my system this week. The issue I'm facing is that the Django server is running on port 8000, but according to the documentation, the docker container port also needs to run on 8000, which is not feasible. As a result, the following error is occurring.
 
 
 
@@ -26,16 +26,28 @@ To resolve this issue, I attempted to change the Django server port to 4600 by r
 ```
 python3 manage.py runserver 4600
 ```
-Additionally, I modified the docker run command from``-p 8000:8000`` to ``-p 8000:4600``
+Additionally, I modified the docker run command from ``-p 8000:8000`` to ``-p 8000:4600``
 
 Entire Command:
 ```
 sudo docker run --rm -it -p 8000:4600 -p 2303:2303 -p 1905:1905 -p 8765:8765 -p 6080:6080 -p 1108:1108 jderobot/robotics-academy --no-server
 ```
 
-However, even after making these changes, I still couldn't establish a connection between the PythonWebIDE page and the RADI platform.
+However, even after making these changes, I still couldn't establish a connection between the Infrastructure page and the RADI platform.
 
 
 ![](https://hackmd.io/_uploads/r1kylaZvn.png)
 
+## Goals for the Next Week:
+As I embark on Week 4 of the coding period, I have defined the following objectives to drive my progress in the project:
 
+#### Develop a Web Page using Infrastructure:
+In the upcoming week, my main focus will be on utilizing the Infrastructure component to create a fully functional web page. By leveraging the capabilities of Infrastructure, I aim to design an intuitive and responsive web interface that seamlessly integrates with the rest of the project.
+
+#### Establish Seamless Connections:
+A crucial aspect of the project's success lies in establishing seamless connections between RADI (Robotics Academy Docker Image) and the web page. During Week 4, my goal is to ensure that all the necessary connections between these components are properly established and functioning effectively. This will enable smooth communication and data transfer between RADI and the web page, facilitating a cohesive user experience.
+
+#### Implement an Input Option for .zip Files:
+To initiate the integration of Visual Circuit into the Infrastructure component, a key step is to provide an input option for .zip files. In the upcoming week, I will work on incorporating this functionality into the web page. Users will be able to upload .zip files, containing relevant data or code, directly through the web interface. This important feature will serve as the foundation for integrating Visual Circuit functionalities into the Infrastructure component.
+
+By achieving these goals, I will make significant progress in the development of the project. Creating a web page using Infrastructure, establishing seamless connections between components, and implementing an input option for .zip files are essential steps in advancing the integration of Visual Circuit and enhancing the overall functionality of the project.
