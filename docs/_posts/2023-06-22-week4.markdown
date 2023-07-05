@@ -20,3 +20,5 @@ During this week, I dedicated time to exploring the code of the RoboticsApplicat
 
 ## Integration of Zip File Input:
 As part of my progress this week, I successfully implemented an input option for zip files on the web page. Users can now upload zip files directly through the interface, replacing the Ace code editor. However, at this stage, the file upload functionality is not transferring the zip file to the RAM successfully. This is an area where I encountered a challenge and need to find a suitable solution.
+## Goals of next week:
+Complete the full working of prototype web page of Visual Circuit.

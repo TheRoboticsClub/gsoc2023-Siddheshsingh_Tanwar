@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Week 6"
+date: June 22 - June 29 2023
+author: Siddheshsingh Tanwar
+categories: BLogs
+tags: weekly
+---
+
+Hello, everyone! Welcome to my Week 5 update on my Google Summer of Code (GSOC) project. It has been a productive week filled with accomplishments and challenges. Let's delve into the details of what I have achieved and the ongoing obstacles I encountered.
+
+Zip File Integration:
+I'm thrilled to share that I have successfully implemented the integration of zip file functionality in the project. Users can now upload a zip file through the web interface, and the file is automatically unzipped and stored in the workspace/code directory of the Robotics Academy Docker image. This is a significant milestone as it allows for seamless integration of user-generated code and data into the project.
+
+Additionally, the default.py and code.py are also
+directed to the workspace/code when play button is ran and this is making the unzip file not to run and the default file is running.
+
+## Goals of Next week:
+
+Next week i have to relsove the files that have come along with the unzip file and make a another method in which the file can be stored directly in workspace/code.The 2nd method will be done by using docker vol in which the local folder is mount with folder in docker image.
