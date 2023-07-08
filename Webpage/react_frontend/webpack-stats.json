@@ -1,0 +1,103 @@
+{
+  "status": "done",
+  "assets": {
+    "css/index.css": {
+      "name": "css/index.css",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/css/index.css"
+    },
+    "js/index.7222f5e6.js": {
+      "name": "js/index.7222f5e6.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/index.7222f5e6.js"
+    },
+    "css/exercise.css": {
+      "name": "css/exercise.css",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/css/exercise.css"
+    },
+    "js/exercise.9e7f2cd3.js": {
+      "name": "js/exercise.9e7f2cd3.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/exercise.9e7f2cd3.js"
+    },
+    "css/exercises_static_exercises_python_web_ide_react-components_Test2ExerciseManager_js.css": {
+      "name": "css/exercises_static_exercises_python_web_ide_react-components_Test2ExerciseManager_js.css",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/css/exercises_static_exercises_python_web_ide_react-components_Test2ExerciseManager_js.css"
+    },
+    "js/exercises_static_exercises_python_web_ide_react-components_Test2ExerciseManager_js.6f0f3e2c.js": {
+      "name": "js/exercises_static_exercises_python_web_ide_react-components_Test2ExerciseManager_js.6f0f3e2c.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/exercises_static_exercises_python_web_ide_react-components_Test2ExerciseManager_js.6f0f3e2c.js"
+    },
+    "css/exercises_static_exercises_python_web_ide_react-components_Test3ExerciseManager_js.css": {
+      "name": "css/exercises_static_exercises_python_web_ide_react-components_Test3ExerciseManager_js.css",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/css/exercises_static_exercises_python_web_ide_react-components_Test3ExerciseManager_js.css"
+    },
+    "js/exercises_static_exercises_python_web_ide_react-components_Test3ExerciseManager_js.3375a11b.js": {
+      "name": "js/exercises_static_exercises_python_web_ide_react-components_Test3ExerciseManager_js.3375a11b.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/exercises_static_exercises_python_web_ide_react-components_Test3ExerciseManager_js.3375a11b.js"
+    },
+    "css/exercises_static_exercises_python_web_ide_react-components_TestExerciseManager_js.css": {
+      "name": "css/exercises_static_exercises_python_web_ide_react-components_TestExerciseManager_js.css",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/css/exercises_static_exercises_python_web_ide_react-components_TestExerciseManager_js.css"
+    },
+    "js/exercises_static_exercises_python_web_ide_react-components_TestExerciseManager_js.1909d229.js": {
+      "name": "js/exercises_static_exercises_python_web_ide_react-components_TestExerciseManager_js.1909d229.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/exercises_static_exercises_python_web_ide_react-components_TestExerciseManager_js.1909d229.js"
+    },
+    "css/exercises_static_exercises_python_web_ide_react-components_TestLoader_js.css": {
+      "name": "css/exercises_static_exercises_python_web_ide_react-components_TestLoader_js.css",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/css/exercises_static_exercises_python_web_ide_react-components_TestLoader_js.css"
+    },
+    "js/exercises_static_exercises_python_web_ide_react-components_TestLoader_js.f7c3fbec.js": {
+      "name": "js/exercises_static_exercises_python_web_ide_react-components_TestLoader_js.f7c3fbec.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/exercises_static_exercises_python_web_ide_react-components_TestLoader_js.f7c3fbec.js"
+    },
+    "css/exercises_static_exercises_python_web_ide_react-components_TestShowScreen_js.css": {
+      "name": "css/exercises_static_exercises_python_web_ide_react-components_TestShowScreen_js.css",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/css/exercises_static_exercises_python_web_ide_react-components_TestShowScreen_js.css"
+    },
+    "js/exercises_static_exercises_python_web_ide_react-components_TestShowScreen_js.b7355243.js": {
+      "name": "js/exercises_static_exercises_python_web_ide_react-components_TestShowScreen_js.b7355243.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/exercises_static_exercises_python_web_ide_react-components_TestShowScreen_js.b7355243.js"
+    },
+    "js/src_constants_index_js.c9a8722f.js": {
+      "name": "js/src_constants_index_js.c9a8722f.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/src_constants_index_js.c9a8722f.js"
+    },
+    "js/src_helpers_3DReconstruction_pose3d_js.bb6a3bc8.js": {
+      "name": "js/src_helpers_3DReconstruction_pose3d_js.bb6a3bc8.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/src_helpers_3DReconstruction_pose3d_js.bb6a3bc8.js"
+    },
+    "js/src_helpers_global_js.b0563677.js": {
+      "name": "js/src_helpers_global_js.b0563677.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/src_helpers_global_js.b0563677.js"
+    },
+    "js/src_hooks_useWindowDimensions_js.f96c0d9c.js": {
+      "name": "js/src_hooks_useWindowDimensions_js.f96c0d9c.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/src_hooks_useWindowDimensions_js.f96c0d9c.js"
+    },
+    "css/src_index_js.css": {
+      "name": "css/src_index_js.css",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/css/src_index_js.css"
+    },
+    "js/src_index_js.7a1f1cdf.js": {
+      "name": "js/src_index_js.7a1f1cdf.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/src_index_js.7a1f1cdf.js"
+    },
+    "js/src_libs_video_recorder_js.a396d02a.js": {
+      "name": "js/src_libs_video_recorder_js.a396d02a.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/src_libs_video_recorder_js.a396d02a.js"
+    },
+    "js/vendors-node_modules_classnames_index_js-node_modules_react_jsx-runtime_js.5e177235.js": {
+      "name": "js/vendors-node_modules_classnames_index_js-node_modules_react_jsx-runtime_js.5e177235.js",
+      "path": "/home/siddhesh/Desktop/Prototype/PythonWebIDE/react_frontend/static/react_frontend/js/vendors-node_modules_classnames_index_js-node_modules_react_jsx-runtime_js.5e177235.js"
+    }
+  },
+  "chunks": {
+    "index": [
+      "css/index.css",
+      "js/index.7222f5e6.js"
+    ],
+    "exercise": [
+      "css/exercise.css",
+      "js/exercise.9e7f2cd3.js"
+    ]
+  }
+}
