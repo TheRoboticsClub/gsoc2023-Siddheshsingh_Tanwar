@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 1"
-date: May 28 - June 4 2023
+date: June 4 - May 28 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
 tags: weekly

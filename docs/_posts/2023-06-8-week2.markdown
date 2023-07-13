@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 2"
-date: June 3 - June 8 2023
+date: June 8 - June 3 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
 tags: weekly
