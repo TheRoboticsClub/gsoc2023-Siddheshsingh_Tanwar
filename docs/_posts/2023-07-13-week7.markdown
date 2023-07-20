@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Week 7"
+date: July 13 - July 6 2023
+author: Siddheshsingh Tanwar
+categories: BLogs
+tags: weekly
+---
+
+Hello everyone! Welcome to my Week 7 update on my Google Summer of Code (GSOC) project. This week has been filled with exciting progress as I accomplished the goals set in Week 6 and continued to enhance the project. Let's dive into the details of what I have achieved.
+
+## Completing Prototype 1 and Prototype Video:
+As per my Week 6 goals, I am thrilled to announce the successful completion of Prototype 1 for the Visual Circuit webpage. The prototype showcases the seamless integration of zip file functionality, unzipping, and code execution within the Robotics Academy Docker Image (RADI). To provide a comprehensive overview of the prototype's features and functionality, I created a demo video. The video demonstrates the entire process, from user zip file upload to code execution, and highlights the smooth interaction with the RADI environment. I have also uploaded the code to the Git repository, ensuring accessibility to the project's progress.
+
+## Resolving Zip File Compatibility Issue:
+In pursuit of my Week 6 goals, I focused on refining the compatibility of zip files used in the project. By closely investigating the requirements of the RoboticsApplicationManager (RAM) for successful execution, I made necessary adjustments to the VisualCircuit's zip generation process. This refinement ensures seamless integration with RAM's expectations and enhances the overall functionality of the project.
+
+## Goals for Week 8: 
+Looking ahead to Week 8, I am excited to take on new challenges in building Prototype 2 for the Visual Circuit platform. The following are the three steps I plan to accomplish:
+
+1. Make Proper Connection:
+The first step in Prototype 2 involves establishing the proper connection between the Visual Circuit platform and the launched Gazebo world. This connection is crucial for enabling interaction between the robot and the virtual environment.
+
+2. Launch the World:
+In the second step, I will focus on launching the Gazebo world within the platform. This step will involve configuring and initializing the virtual environment to create a realistic and interactive workspace for the robot.
+
+3. Create Sample Code or Project:
+Finally, I will develop sample code or a project within the Visual Circuit platform. This code will allow the robot to perform specific actions or tasks in the Gazebo world, showcasing the seamless integration and functionality of the platform.

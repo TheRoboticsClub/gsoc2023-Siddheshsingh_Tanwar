@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Week 8"
+date: July 20 - July 13 2023
+author: Siddheshsingh Tanwar
+categories: BLogs
+tags: weekly
+---
+
+Hello everyone! Welcome to my Week 8 update on my Google Summer of Code (GSOC) project. This week has been filled with both accomplishments and challenges as I continued to work on Prototype 2 for the Visual Circuit webpage. Let's delve into the details of what I have achieved and the obstacles I encountered.
+
+## Progress on Prototype 2:
+As mentioned in the previous week's goals, the first two steps of Prototype 2 were successfully completed. I established the proper connection between the Visual Circuit platform and the launched Gazebo world. Additionally, I successfully launched the Gazebo world within the platform, creating an interactive workspace for the robot.
+
+## Challenges with Sample Code or Exercise:
+The final step of Prototype 2 involved creating sample code or exercises that would enable the needed helpers to be launched and allow robotics-related exercises to run seamlessly on the platform. However, I faced challenges in replicating the exact method used by the Robotics Academy, which resulted in some setbacks. Despite my efforts, the attempt to mimic their approach was not successful.
