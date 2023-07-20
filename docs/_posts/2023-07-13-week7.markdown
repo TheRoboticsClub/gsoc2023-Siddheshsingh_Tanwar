@@ -11,6 +11,7 @@ Hello everyone! Welcome to my Week 7 update on my Google Summer of Code (GSOC) p
 
 ## Completing Prototype 1 and Prototype Video:
 As per my Week 6 goals, I am thrilled to announce the successful completion of Prototype 1 for the Visual Circuit webpage. The prototype showcases the seamless integration of zip file functionality, unzipping, and code execution within the Robotics Academy Docker Image (RADI). To provide a comprehensive overview of the prototype's features and functionality, I created a demo video. The video demonstrates the entire process, from user zip file upload to code execution, and highlights the smooth interaction with the RADI environment. I have also uploaded the code to the Git repository, ensuring accessibility to the project's progress.
+Video Link:https://youtu.be/knUArYDG9Zo
 
 ## Resolving Zip File Compatibility Issue:
 In pursuit of my Week 6 goals, I focused on refining the compatibility of zip files used in the project. By closely investigating the requirements of the RoboticsApplicationManager (RAM) for successful execution, I made necessary adjustments to the VisualCircuit's zip generation process. This refinement ensures seamless integration with RAM's expectations and enhances the overall functionality of the project.
