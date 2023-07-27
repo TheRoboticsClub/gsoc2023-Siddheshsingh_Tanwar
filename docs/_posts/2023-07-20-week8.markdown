@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 8"
-date: July 20 - July 13 2023
+date: July 20-July 13 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
 tags: weekly
@@ -15,3 +15,17 @@ As mentioned in the previous week's goals, the first two steps of Prototype 2 we
 
 ## Challenges with Sample Code or Exercise:
 The final step of Prototype 2 involved creating sample code or exercises that would enable the needed helpers to be launched and allow robotics-related exercises to run seamlessly on the platform. However, I faced challenges in replicating the exact method used by the Robotics Academy, which resulted in some setbacks. Despite my efforts, the attempt to mimic their approach was not successful.
+## Goals of Week-9:
+### Run Any Robotics Application in Prototype:
+The first goal is to successfully run any robotics application within the Prototype 2 environment. This will involve testing various applications to ensure smooth execution and interaction with the platform.
+
+### Run the Same Application by Single Python File in Zip:
+To streamline the execution process, I will work on enabling the execution of a robotics application using a single Python file contained within a zip file. This enhancement will offer a more user-friendly approach for running applications within the platform.
+
+### Run the Same Application with Multiple Other File Support:
+Building upon the previous goal, I aim to expand the functionality to support running a robotics application that requires multiple other files alongside the main Python file. This will further enhance the platform's flexibility and usability.
+
+### Create a Robotics Application from Visual Circuit and Run it Locally.
+
+### Run the Same Application Created from Visual Circuit inside the Prototype:
+The final goal is to seamlessly integrate the robotics application created from Visual Circuit into the Prototype 2 environment. This will enable users to effortlessly transition from development to execution within the platform.
