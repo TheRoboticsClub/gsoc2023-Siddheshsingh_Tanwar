@@ -18,21 +18,20 @@ to control the robot's movement. This method proved effective in completing the 
 
 ### Goal 2: Running Robot with Zip File Input
 In the second task, I achieved the goal of running the line-following robot using a zip file input containing a single Python file. This approach simplified the execution process, and the robot smoothly followed the desired path.
-Code:
-https://drive.google.com/file/d/1iOmnOEgYuOim4rkPMsIXnJaswcwxO4FY/view?usp=sharing
-Video:
-https://drive.google.com/file/d/1c7IvC5CH6rmr2TGLV2VuSSbf9BxfF4dY/view?usp=sharing
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f1g2OzQKhMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Goal 3: Testing Multiple File Support
 For the third task, I focused on testing the multiple file support of our Prototype. I successfully created an application where the line-following robot counts and increments itself for every loop, displaying the result in the terminal. The platform demonstrated its capability to handle and execute multiple files, enhancing its flexibility.
-Code:
-https://drive.google.com/file/d/1NInz1cZ5oQ0AVYlNS3QJSnQNXd5sIfYg/view?usp=sharing
-Video:
-https://drive.google.com/file/d/1MkvUYhzKQcrntJQx_bu6PXY5_vIJHyFh/view?usp=sharing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IzzJd-bHNAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### Challenges Faced in Goal 4:
 The fourth task presented some challenges as I had ROS2 installed on my PC, and I needed to install ROS Neotic to run the application in the same world as in the Prototype. Despite my efforts, I encountered difficulties in finding the required F1ROS packages, and attempts to obtain them using various methods also proved unsuccessful.
 
 Ongoing Efforts:
 Though I faced challenges with the fourth task, I remain determined to overcome them. I am actively exploring alternative approaches and seeking guidance from mentors to resolve the issue and accomplish the goal.
+
+## Goals of week 10:
+Complete Goal 4 and Goal 5.
