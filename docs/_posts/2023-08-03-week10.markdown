@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Week 10"
+date: Aug 3-July 27 2023
+author: Siddheshsingh Tanwar
+categories: BLogs
+tags: weekly
+---
+
+Hello everyone! Welcome to my Week 10 update on my Google Summer of Code (GSOC) project. I am thrilled to share that I have successfully completed Task 4, the ROS Neotic integration, and resolved the relative pathing error in Task 5, enabling error-free execution of Visual Circuit applications in the webpage/Prototype. With these accomplishments, I am excited to delve into the development of a complex Visual Circuit application that will display the processed ROS camera image on the screen or the VNC block of the webpage.
+
+
+## Running Error-Free Visual Circuit Application
+In Task 5, I encountered a relative pathing error with the zip application that impacted the execution of Visual Circuit applications. By thoroughly analyzing the issue and debugging the code, I identified the root cause as the path of the data.json file. I resolved this error by adjusting the path to "/workspace/code/data.json" in the unzipped files, ensuring smooth and error-free application execution within the webpage.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u6JeElaJjo8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Display the processed ROS camera image on the screen
+Having completed the assigned tasks, I have taken on the challenge of building a complex Visual Circuit application. This application aims to display the processed ROS camera image on the screen or the VNC block of the webpage, enhancing the user experience and interaction with the platform. I am eager to explore the full potential of this application and further refine it to meet the project's objectives.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6PG3EUtmySs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+With these milestones achieved, I am grateful for the invaluable guidance and support from my mentors and the community. The project is progressing steadily, and I am excited to see it flourish as we move forward.
