@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Week 10"
-date: Aug 3-July 27 2023
+title: "Week 11"
+date: Aug 10 - Aug 3 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
 tags: weekly
