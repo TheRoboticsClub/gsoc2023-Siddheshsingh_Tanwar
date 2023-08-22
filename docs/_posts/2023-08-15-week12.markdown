@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 12"
-date: Aug 17 - Aug 10 2023
+date: Aug 15 - Aug 10 2023
 author: Siddheshsingh Tanwar
 categories: BLogs
 tags: weekly
@@ -10,13 +10,19 @@ tags: weekly
 Greetings, readers! Welcome to my Week 12 update on my Google Summer of Code (GSOC) project. This week has been filled with tasks focused on testing, coding, and addressing challenges head-on. Let's delve into the specifics of my progress.
 
 ### Task 1: Testing VNC Functionality
+
 Task 1 involved a meticulous test of the General VNC functionality. I concentrated on ensuring the flawless display of a zip file containing camera and screen visuals within the VNC block. I'm delighted to share that the output was impeccable, aligning perfectly with our expectations.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n15poXMcIAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Task 2: Enabling Robot Spinning with Visual Circuit
+
 In Task 2, I embarked on a journey to enable the robot to spin in place using the combined power of Visual Circuit and VC+. This endeavor began with creating a zip file through Visual Circuit, designed to initiate the spinning motion. Subsequently, I tested the zip file within the Webpage or Prototype environment. The result? A resounding success! The robot spun just as we envisioned.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RBlDoH7XIPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Task 3: Work-in-Progress Video Creation
+
 Task 3 aimed at capturing our progress through a Work-in-Progress (WIP) video, showcasing the robot's line-following capabilities. While combining the outcomes of the first two tasks, I encountered a minor hurdle involving the PID control. Despite this challenge, I'm pleased to report that the robot is moving as intended. The issue is isolated to the PID, confirming the effectiveness of Visual Circuit's zip creation.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-osIHo5NLM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

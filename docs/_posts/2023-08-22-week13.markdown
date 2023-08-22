@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Week 13"
+date: Aug 22 - Aug 15 2023
+author: Siddheshsingh Tanwar
+categories: BLogs
+tags: weekly
+---
+
+Greetings to all! Welcome to my Week 13 update on my Google Summer of Code (GSOC) project. This week has been a culmination of achievements, challenges, and a significant step towards direct integration. Let's delve into the specifics of my accomplishments and the journey through this week.
+
+## Running Robotics Exercise on VC+
+
+In a rewarding achievement, I successfully executed a robotics exercise on VC+. This milestone not only highlights the project's progress but also underlines the capabilities of VC+ to support robotics-related tasks.
+
+## Crafting the Final Video Demonstration of Indirect Integration
+
+The week kicked off with the creation of the final video, showcasing the seamless integration of Visual Circuit with VC+. The video provides a comprehensive demonstration of the successful indirect integration, capturing the essence of our progress.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OpFIl5uubgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Navigating Direct Integration Challenges
+
+The focus then shifted towards the direct integration of VC+ and Visual Circuit, a step loaded with complexities. The file structures of both frontends proved intricate, demanding meticulous analysis and understanding. Countless hours were invested in comprehending the intricacies of both frontends and backends. Yet, certain challenges emerged.
+
+## Frontend Integration Progress
+
+Amidst the challenges, I managed to integrate the frontend, ensuring the smooth operation of Visual Circuit. The frontend integration was a significant stride towards achieving direct integration, showcasing the potential of Visual Circuit within VC+.
+
+## Ongoing Challenges with VC+
+
+However, the journey to direct integration was not without its hurdles. While the frontend integration for Visual Circuit was successful, VC+ encountered issues that demand resolution. These challenges require a thorough exploration of the VC+ frontend and backend to pinpoint the causes and implement effective solutions.
