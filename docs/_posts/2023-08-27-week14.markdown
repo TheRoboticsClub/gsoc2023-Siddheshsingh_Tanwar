@@ -15,8 +15,8 @@ My initial focus was on creating a prototype that involved unzipping a user-prov
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/knUArYDG9Zo?si=QX8kayjAac8xtZRx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Prototype 2: Running Robotics Application in VC+
-Prototype 2 marked a significant advancement, where the emphasis was on executing a robotics application within the Docker environment. I tackled the challenge of launching a line-following robot within the Docker image, and through meticulous implementation, I achieved successful execution. The race car gazebo world, integrated within the VC+ environment, flawlessly followed the red line, showcasing the practicality of running complex robotics simulations within a contained ecosystem.
+## Prototype 2: Robotics Application in Docker
+Prototype 2 marked a significant advancement, where the emphasis was on executing a robotics application within the Docker environment. I tackled the challenge of launching a line-following robot within the Docker image, and through meticulous implementation, I achieved successful execution. The race car gazebo world, integrated within the Docker environment, flawlessly followed the red line, showcasing the practicality of running complex robotics simulations within a contained ecosystem.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f1g2OzQKhMc?si=U2VTJa5UZnYrq0ed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -25,7 +25,7 @@ In Prototype 3, the goal was to connect Visual Circuit blocks and create a robot
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u6JeElaJjo8?si=7dUrGchKdZTaFP6r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#  Final Integration: Visual Circuit and VC+ 
+#  Final Integration: Visual Circuit and VC+ Collaboration
 ## Indirect Integration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OpFIl5uubgI?si=jM6TAvjNTorhzKVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -33,6 +33,8 @@ In Prototype 3, the goal was to connect Visual Circuit blocks and create a robot
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uWFZPpEpm0I?si=JGev26i0UnV-Z_n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 The final phase of the project focused on the ultimate integration of Visual Circuit and VC+ (Visual Components Plus). This intricate task required amalgamating both components into a single webpage. By strategically implementing changes in both Visual Circuit and VC+ frontends and backends, I successfully merged the two interfaces. This achievement not only demonstrated the seamless coexistence of these platforms but also established a foundation for future developments.
+
+## [Pull Requests](https://github.com/JdeRobot/VisualCircuit/pull/222)
 
 ## Conclusion
 As I conclude my GSoC journey, I am grateful for the invaluable mentorship, constant support, and opportunities for growth that the JdeRobot community provided. The experience has not only deepened my technical skills but also enriched my understanding of collaborative open-source development. The journey from unzipping files to the final integration has been an extraordinary learning adventure, and I look forward to seeing the continued impact of Visual Circuit and Robotics Academy for enthusiasts and learners alike.
