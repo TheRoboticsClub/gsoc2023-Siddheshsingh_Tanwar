@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Final Summary Report"
+date: Aug 27 - Aug 22 2023
+author: Siddheshsingh Tanwar
+categories: BLogs
+tags: weekly
+---
+
+
+Hello everyone! As I reflect upon my remarkable journey through this year's Google Summer of Code (GSoC), I'm excited to share the progress I've made and the accomplishments achieved in the integration of Visual Circuit within the Robotics Academy ecosystem. Our primary aim was to enhance the accessibility of Visual Circuit by developing a Docker image, streamlining deployment for a wider audience. This integration aimed to seamlessly combine Visual Circuit with Robotics Academy, and I'm thrilled to detail the significant milestones accomplished during this transformative journey.
+
+## Prototype 1: Unzipping and Docker Integration
+My initial focus was on creating a prototype that involved unzipping a user-provided zip file within the Robotics Academy Docker Image (RADI) environment. This file was then required to execute seamlessly within the Docker container. By overcoming challenges related to pathing and file structure, I successfully accomplished this task, ensuring that uploaded code could be efficiently executed within the Docker image.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/knUArYDG9Zo?si=QX8kayjAac8xtZRx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Prototype 2: Robotics Application in Docker
+Prototype 2 marked a significant advancement, where the emphasis was on executing a robotics application within the Docker environment. I tackled the challenge of launching a line-following robot within the Docker image, and through meticulous implementation, I achieved successful execution. The race car gazebo world, integrated within the Docker environment, flawlessly followed the red line, showcasing the practicality of running complex robotics simulations within a contained ecosystem.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f1g2OzQKhMc?si=U2VTJa5UZnYrq0ed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Prototype 3: Visual Circuit Integration
+In Prototype 3, the goal was to connect Visual Circuit blocks and create a robotics application. I worked on modifying RADI to enable the unzipping and execution of code with relative file import errors, streamlining the integration process. This prototype showcased the potential of creating sophisticated robotics applications through Visual Circuit and executing them within the Robotics Academy environment.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u6JeElaJjo8?si=7dUrGchKdZTaFP6r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#  Final Integration: Visual Circuit and VC+ Collaboration
+## Indirect Integration:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OpFIl5uubgI?si=jM6TAvjNTorhzKVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Direct Integration v1.0:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uWFZPpEpm0I?si=JGev26i0UnV-Z_n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The final phase of the project focused on the ultimate integration of Visual Circuit and VC+ (Visual Components Plus). This intricate task required amalgamating both components into a single webpage. By strategically implementing changes in both Visual Circuit and VC+ frontends and backends, I successfully merged the two interfaces. This achievement not only demonstrated the seamless coexistence of these platforms but also established a foundation for future developments.
+
+## Conclusion
+As I conclude my GSoC journey, I am grateful for the invaluable mentorship, constant support, and opportunities for growth that the JdeRobot community provided. The experience has not only deepened my technical skills but also enriched my understanding of collaborative open-source development. The journey from unzipping files to the final integration has been an extraordinary learning adventure, and I look forward to seeing the continued impact of Visual Circuit and Robotics Academy for enthusiasts and learners alike.
