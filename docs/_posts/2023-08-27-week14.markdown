@@ -15,8 +15,8 @@ My initial focus was on creating a prototype that involved unzipping a user-prov
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/knUArYDG9Zo?si=QX8kayjAac8xtZRx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Prototype 2: Robotics Application in Docker
-Prototype 2 marked a significant advancement, where the emphasis was on executing a robotics application within the Docker environment. I tackled the challenge of launching a line-following robot within the Docker image, and through meticulous implementation, I achieved successful execution. The race car gazebo world, integrated within the Docker environment, flawlessly followed the red line, showcasing the practicality of running complex robotics simulations within a contained ecosystem.
+## Prototype 2: Running Robotics Application in VC+
+Prototype 2 marked a significant advancement, where the emphasis was on executing a robotics application within the Docker environment. I tackled the challenge of launching a line-following robot within the Docker image, and through meticulous implementation, I achieved successful execution. The race car gazebo world, integrated within the VC+ environment, flawlessly followed the red line, showcasing the practicality of running complex robotics simulations within a contained ecosystem.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f1g2OzQKhMc?si=U2VTJa5UZnYrq0ed" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -25,7 +25,7 @@ In Prototype 3, the goal was to connect Visual Circuit blocks and create a robot
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u6JeElaJjo8?si=7dUrGchKdZTaFP6r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-#  Final Integration: Visual Circuit and VC+ Collaboration
+#  Final Integration: Visual Circuit and VC+ 
 ## Indirect Integration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OpFIl5uubgI?si=jM6TAvjNTorhzKVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
